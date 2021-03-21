@@ -3,12 +3,12 @@ package application;
 import java.util.Scanner;
 
 import exercises.Ex01;
+import exercises.Ex02;
+import exercises.Ex03;
 import exercises.Ex04;
 import exercises.Ex05;
-import exercises.Ex02;
-import exercises.Ex07;
 import exercises.Ex06;
-import exercises.Ex03;
+import exercises.Ex07;
 
 public class Programa {
 	public static void main(String[] args) {
