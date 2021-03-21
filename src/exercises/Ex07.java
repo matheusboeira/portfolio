@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class Setimo {
+public class Ex07 {
 	private static int horas, minutos, segundos;
 	
 	public static void exercicio(Scanner entrada) {

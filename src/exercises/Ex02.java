@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class Segundo {
+public class Ex02 {
 	private final static int NOTAS = 3;
 	private static double[] nota = new double[NOTAS];
 	private static double media;

@@ -2,16 +2,15 @@ package application;
 
 import java.util.Scanner;
 
-import exercises.Primeiro;
-import exercises.Quarto;
-import exercises.Quinto;
-import exercises.Segundo;
-import exercises.Setimo;
-import exercises.Sexto;
-import exercises.Terceiro;
+import exercises.Ex01;
+import exercises.Ex04;
+import exercises.Ex05;
+import exercises.Ex02;
+import exercises.Ex07;
+import exercises.Ex06;
+import exercises.Ex03;
 
 public class Programa {
-
 	public static void main(String[] args) {
 		short menu;
 		
@@ -29,31 +28,31 @@ public class Programa {
 			
 			switch(menu) {
 				case 1:
-					Primeiro.exercicio(entrada);
+					Ex01.exercicio(entrada);
 					break;
 					
 				case 2:
-					Segundo.exercicio(entrada);
+					Ex02.exercicio(entrada);
 					break;
 					
 				case 3:
-					Terceiro.exercicio(entrada);
+					Ex03.exercicio(entrada);
 					break;
 					
 				case 4:
-					Quarto.exercicio(entrada);
+					Ex04.exercicio(entrada);
 					break;
 					
 				case 5:
-					Quinto.exercicio(entrada);
+					Ex05.exercicio(entrada);
 					break;
 					
 				case 6:
-					Sexto.exercicio(entrada);
+					Ex06.exercicio(entrada);
 					break;
 					
 				case 7:
-					Setimo.exercicio(entrada);
+					Ex07.exercicio(entrada);
 					break;
 					
 				default:

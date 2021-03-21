@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class Sexto {
+public class Ex06 {
 	private static double peso, altura, imc;
 	
 	public static void exercicio(Scanner entrada) {

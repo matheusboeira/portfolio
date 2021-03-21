@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class Terceiro {
+public class Ex03 {
 	private static int idade;
 	
 	public static void exercicio(Scanner entrada) {
