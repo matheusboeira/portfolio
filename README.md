@@ -1,4 +1,4 @@
-# Portfólio: Marco 2
+# Portfólio: Marco 2 - Estrutura Condicional
 
 Portfólio: Marco 2. Resolução da lista de exercícios. Estrutura condicional.
 
